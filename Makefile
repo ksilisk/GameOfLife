@@ -1,2 +1,2 @@
 all:
-	gcc -lcurses game_of_life.c
+	gcc -lcurses game_of_life.c -o GameOfLife
